@@ -57,8 +57,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ripa29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripa29&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ripa29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ripa29&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ripa29&theme=tokyonight&hide_border=true)
 </p>
 
 <p align="center">
