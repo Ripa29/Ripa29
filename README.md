@@ -56,12 +56,18 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ripa29&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ripa29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ripa29&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Ripa29&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripa29&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
